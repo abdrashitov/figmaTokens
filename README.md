@@ -1,1 +1,4 @@
-# figmaTokens
+# Figma Tokens
+
+
+Проект - песочница по работе с дизайн-токенами Figma
