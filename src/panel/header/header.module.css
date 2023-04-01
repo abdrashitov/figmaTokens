@@ -1,0 +1,37 @@
+.header {
+  border-bottom: 2px solid var(--Gray_Blue__Grey_Blue_95);
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  color: var(--Gray_Blue__Grey_Blue_50);
+  font: var(--Bold__Bold_18);
+  height: 100px;
+}
+
+.actions {
+  color: var(--Gray_Blue__Grey_Blue_85);
+  flex-grow: 1;
+  align-items: center;
+  justify-content: right;
+  display: flex;
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+  background: var(--White__White);
+  /* Shadows/Gray Blue 30/3%/5b */
+  box-shadow: 0 2px 5px rgba(38, 51, 77, 0.03);
+  border-radius: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.icon:hover {
+  color: var(--Orange__Orange);
+}
