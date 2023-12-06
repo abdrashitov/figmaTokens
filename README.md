@@ -8,3 +8,5 @@
 - yarn start
 
 Исходники дизайн-системы, использованной для примера https://www.figma.com/file/x8jzD6SmD4RHPh1Jp8xTEw/figma-tokens
+
+Telegram @p_abdrashitov
